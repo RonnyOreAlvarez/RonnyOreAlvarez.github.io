@@ -16,7 +16,7 @@ timezone: America/Lima
 
 title: Bitácora de Pentesting # the main title
 
-tagline: Software Developer # it will display as the subtitle
+tagline: Ing. Ronny J. Oré Alvarez # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
